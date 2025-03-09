@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Видео 1",
+        "src": "video1.mp4",
+        "thumbnail": "thumbnail1"
+    },
+    {
+        "title": "Видео 2",
+        "src": "video2.mp4",
+        "thumbnail": "thumbnail2"
+    }
+]
